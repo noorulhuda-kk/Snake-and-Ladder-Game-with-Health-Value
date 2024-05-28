@@ -9,6 +9,8 @@ This project is a Java implementation of the classic Snake and Ladder game, deve
 - Players are informed of the type of snake that attacked them
 - Game can be restarted or exited at any time
 - Theme of the game can be changed
+## PDF Documentation
+[View here](https://drive.google.com/file/d/1smigmofwpyEy-GTMObeF3Aew3HYRic5c/view?usp=sharing)
 
 ## How to Run
 
